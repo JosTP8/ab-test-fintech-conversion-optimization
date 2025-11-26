@@ -1,5 +1,5 @@
 # 🧪 A/B Test – Optimización de Conversiones en una App Fintech
-**Proyecto 4 — Portafolio Data Analyst | 2025**  
+**Portafolio Data Analyst | 2025**  
 Evaluación del impacto de un nuevo flujo de registro sobre las tasas de conversión
 
 ---
